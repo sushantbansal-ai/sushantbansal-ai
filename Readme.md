@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript
+- **Languages:** JavaScript, TypeScript, Python
 - **Frontend:** React, Angular, Next.js
 - **Backend:** Node.js, Nest.js
 - **Mobile:** React Native
