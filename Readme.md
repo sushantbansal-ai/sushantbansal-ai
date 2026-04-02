@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushant Bansal
 
-🚀 **Senior Software Consultant** | 💼 **CEO at BuildingDots**  
+🚀 **Senior Software Consultant** 
 🛠️ Passionate about building scalable web and mobile applications.
 
 ## 🧠 About Me
