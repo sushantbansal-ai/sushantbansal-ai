@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sushant Bansal
 
 🚀 **Senior Software Consultant** 
-🛠️ Passionate about building scalable web and mobile applications.
+🛠️ Passionate about building scalable SASS web and mobile applications.
 
 ## 🧠 About Me
 
